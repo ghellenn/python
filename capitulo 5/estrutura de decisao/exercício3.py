@@ -1,3 +1,9 @@
+4
+14
+65
+78
+45
+12
 def numeroMaior(v1, v2, v3):
     if (v1 > v2):
         if(v1 > v3):
